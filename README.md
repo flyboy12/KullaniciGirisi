@@ -5,8 +5,8 @@
 
 ## Ekran Görüntüleri
 Giriş Sayfası|Kaydol Sayfası|Kaydol Sayfası 2|Şifremi Unuttum|Profil Sayfası|
-:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-![](https://github.com/flyboy12/KullaniciGirisi/blob/main/assets/github-image/giris.png?raw=true)|![](https://github.com/flyboy12/KullaniciGirisi/blob/main/assets/github-image/kaydol1.png?raw=true)![](https://github.com/flyboy12/KullaniciGirisi/blob/main/assets/github-image/kaydol2.png?raw=true)![](https://github.com/flyboy12/KullaniciGirisi/blob/main/assets/github-image/unuttum.png?raw=true)![](https://github.com/flyboy12/KullaniciGirisi/blob/main/assets/github-image/profil.png?raw=true)
+:-:|:-:|:-:|:-:|:-:|
+![](https://github.com/flyboy12/KullaniciGirisi/blob/main/assets/github-image/giris.png?raw=true)|![](https://github.com/flyboy12/KullaniciGirisi/blob/main/assets/github-image/kaydol1.png?raw=true)|![](https://github.com/flyboy12/KullaniciGirisi/blob/main/assets/github-image/kaydol2.png?raw=true)|![](https://github.com/flyboy12/KullaniciGirisi/blob/main/assets/github-image/unuttum.png?raw=true)|![](https://github.com/flyboy12/KullaniciGirisi/blob/main/assets/github-image/profil.png?raw=true)
 ## Bilgisayarınızda Çalıştırın
 
 Projeyi klonlayın
