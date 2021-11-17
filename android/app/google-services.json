@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "787295342414",
+    "project_id": "deneme1-signup",
+    "storage_bucket": "deneme1-signup.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787295342414:android:01946a30e83577058d581f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_sign_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "787295342414-qpkqhkhisvocvfk44b055e487qcartov.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_sign_up",
+            "certificate_hash": "30d90650c5f0494bd5d025e8df03b622b398033a"
+          }
+        },
+        {
+          "client_id": "787295342414-55l7glbfrstl999ght2mgrrdafamtici.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiB70ZWZ_HvKef8FBfWQNkJ_JVLOc5Jzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "787295342414-55l7glbfrstl999ght2mgrrdafamtici.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
