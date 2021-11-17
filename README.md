@@ -1,16 +1,56 @@
-# firebase_sign_up
 
-A new Flutter project.
+# Kullanıcı Girişi
 
-## Getting Started
+ Bu uygulamada Firebase kullanarak  kullanıcının giriş, kayıt ve şifre yenileme yapılması sağlanmıştır. Google ve Facebook hesabınızla giriş yapmanıza olanak sağlanmıştır.
 
-This project is a starting point for a Flutter application.
+## Ekran Görüntüleri
+Giriş Sayfası|Kaydol Sayfası|Kaydol Sayfası 2|Şifremi Unuttum|Profil Sayfası|
+:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+![](https://github.com/flyboy12/KullaniciGirisi/blob/main/assets/github-image/giris.png?raw=true)|![](https://github.com/flyboy12/KullaniciGirisi/blob/main/assets/github-image/kaydol1.png?raw=true)![](https://github.com/flyboy12/KullaniciGirisi/blob/main/assets/github-image/kaydol2.png?raw=true)![](https://github.com/flyboy12/KullaniciGirisi/blob/main/assets/github-image/unuttum.png?raw=true)![](https://github.com/flyboy12/KullaniciGirisi/blob/main/assets/github-image/profil.png?raw=true)
+## Bilgisayarınızda Çalıştırın
 
-A few resources to get you started if this is your first Flutter project:
+Projeyi klonlayın
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```bash
+  git clone https://github.com/flyboy12/festtask.git
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Gerekli paketleri yükleyin
+
+```bash
+flutter pub get  
+```
+
+
+
+
+
+  
+## Özellikler
+
+- Google kullanarak
+- Facebook kullanarak
+- Email kullanarak
+
+
+  
+## Kütüphaneler & Kullanılan Araçlar
+
+`firebase_core`
+
+`firebase_auth`
+
+`google_sign_in`
+
+`font_awesome_flutter`
+
+`provider`
+
+`image_picker`
+
+`firebase_storage`
+
+`cloud_firestore`
+
+`flutter_facebook_auth`
+  
